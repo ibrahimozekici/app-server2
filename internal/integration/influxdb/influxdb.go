@@ -22,7 +22,7 @@ import (
 	pb "github.com/ibrahimozekici/lora-api/go/v3/as/integration"
 	"github.com/ibrahimozekici/app-server2/internal/integration/models"
 	"github.com/ibrahimozekici/app-server2/internal/logging"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 var precisionValidator = regexp.MustCompile(`^(ns|u|ms|s|m|h)$`)

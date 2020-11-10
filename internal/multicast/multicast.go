@@ -8,11 +8,11 @@ import (
 	"github.com/jmoiron/sqlx"
 	"github.com/pkg/errors"
 
-	api "github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	api //"github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
+	// "github.com/ibrahimozekici/lora-api/go/v3/ns"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 // Enqueue adds the given payload to the multicast-group queue.

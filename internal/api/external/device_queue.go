@@ -15,7 +15,7 @@ import (
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	"github.com/ibrahimozekici/app-server2/internal/codec"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 // DeviceQueueAPI exposes the downlink queue methods.

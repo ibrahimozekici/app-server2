@@ -9,7 +9,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"golang.org/x/net/context"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/integration"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/integration"
 	"github.com/ibrahimozekici/app-server2/internal/codec"
 	"github.com/ibrahimozekici/app-server2/internal/integration"
 	"github.com/ibrahimozekici/app-server2/internal/integration/models"

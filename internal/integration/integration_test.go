@@ -13,7 +13,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/integration"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/integration"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver/mock"
 	httpint "github.com/ibrahimozekici/app-server2/internal/integration/http"

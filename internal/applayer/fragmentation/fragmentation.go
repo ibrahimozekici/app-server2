@@ -13,8 +13,8 @@ import (
 	"github.com/ibrahimozekici/app-server2/internal/config"
 	"github.com/ibrahimozekici/app-server2/internal/logging"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
-	"github.com/brocaar/lorawan"
-	"github.com/brocaar/lorawan/applayer/fragmentation"
+	//"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan/applayer/fragmentation"
 )
 
 var (

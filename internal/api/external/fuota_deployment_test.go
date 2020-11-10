@@ -9,13 +9,13 @@ import (
 	"github.com/stretchr/testify/require"
 	"golang.org/x/net/context"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
-	"github.com/ibrahimozekici/lora-api/go/v3/common"
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	pb // "github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
+	// "github.com/ibrahimozekici/lora-api/go/v3/common"
+	// "github.com/ibrahimozekici/lora-api/go/v3/ns"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver/mock"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 func (ts *APITestSuite) TestFUOTADeployment() {

@@ -13,9 +13,9 @@ import (
 	nsmock "github.com/ibrahimozekici/app-server2/internal/backend/networkserver/mock"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
 	"github.com/ibrahimozekici/app-server2/internal/test"
-	"github.com/brocaar/lorawan"
-	"github.com/brocaar/lorawan/applayer/multicastsetup"
-	"github.com/brocaar/lorawan/gps"
+	//"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan/applayer/multicastsetup"
+	//"github.com/brocaar/lorawan/gps"
 )
 
 type MulticastSetupTestSuite struct {

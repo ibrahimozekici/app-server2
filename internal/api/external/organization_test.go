@@ -8,7 +8,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
 )
 

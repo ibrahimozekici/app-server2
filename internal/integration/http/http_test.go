@@ -12,8 +12,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/integration"
-	"github.com/ibrahimozekici/lora-api/go/v3/common"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/integration"
+	// "github.com/ibrahimozekici/lora-api/go/v3/common"
 	"github.com/ibrahimozekici/app-server2/internal/integration/marshaler"
 	"github.com/ibrahimozekici/app-server2/internal/integration/models"
 )

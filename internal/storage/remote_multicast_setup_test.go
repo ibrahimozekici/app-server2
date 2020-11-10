@@ -10,7 +10,7 @@ import (
 
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	nsmock "github.com/ibrahimozekici/app-server2/internal/backend/networkserver/mock"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 func (ts *StorageTestSuite) TestRemoteMulticastSetup() {

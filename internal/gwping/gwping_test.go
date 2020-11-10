@@ -8,14 +8,14 @@ import (
 	"github.com/golang/protobuf/ptypes"
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/as"
-	"github.com/ibrahimozekici/lora-api/go/v3/common"
-	"github.com/ibrahimozekici/lora-api/go/v3/gw"
+	// "github.com/ibrahimozekici/lora-api/go/v3/as"
+	// "github.com/ibrahimozekici/lora-api/go/v3/common"
+	// "github.com/ibrahimozekici/lora-api/go/v3/gw"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver/mock"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
 	"github.com/ibrahimozekici/app-server2/internal/test"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 func TestGatewayPing(t *testing.T) {

@@ -12,14 +12,14 @@ import (
 	. "github.com/smartystreets/goconvey/convey"
 	"golang.org/x/net/context"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	// "github.com/ibrahimozekici/lora-api/go/v3/ns"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver/mock"
 	"github.com/ibrahimozekici/app-server2/internal/codec"
 	"github.com/ibrahimozekici/app-server2/internal/integration/models"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
 	"github.com/ibrahimozekici/app-server2/internal/test"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 func TestHandleDownlinkQueueItem(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"github.com/golang/protobuf/ptypes"
 	"github.com/stretchr/testify/require"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/gw"
+	// "github.com/ibrahimozekici/lora-api/go/v3/gw"
 )
 
 func TestHEXBytes(t *testing.T) {

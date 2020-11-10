@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/common"
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	// "github.com/ibrahimozekici/lora-api/go/v3/common"
+	// "github.com/ibrahimozekici/lora-api/go/v3/ns"
 	uuid "github.com/gofrs/uuid"
 	"github.com/golang/protobuf/ptypes"
 	"github.com/stretchr/testify/require"
@@ -13,7 +13,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver/mock"
 	"github.com/ibrahimozekici/app-server2/internal/storage"

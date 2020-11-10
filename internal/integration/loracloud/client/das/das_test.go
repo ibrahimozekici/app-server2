@@ -12,7 +12,7 @@ import (
 	"github.com/stretchr/testify/suite"
 
 	"github.com/ibrahimozekici/app-server2/internal/integration/loracloud/client/helpers"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 type ClientTestSuite struct {

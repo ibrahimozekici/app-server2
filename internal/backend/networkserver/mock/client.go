@@ -6,7 +6,7 @@ import (
 	"github.com/golang/protobuf/ptypes/empty"
 	"google.golang.org/grpc"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	// "github.com/ibrahimozekici/lora-api/go/v3/ns"
 )
 
 // Client is a test network-server client.

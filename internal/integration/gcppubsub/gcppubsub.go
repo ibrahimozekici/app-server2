@@ -15,12 +15,12 @@ import (
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/integration"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/integration"
 	"github.com/ibrahimozekici/app-server2/internal/config"
 	"github.com/ibrahimozekici/app-server2/internal/integration/marshaler"
 	"github.com/ibrahimozekici/app-server2/internal/integration/models"
 	"github.com/ibrahimozekici/app-server2/internal/logging"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 type publishRequest struct {

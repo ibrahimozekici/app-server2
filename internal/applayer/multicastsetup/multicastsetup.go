@@ -13,9 +13,9 @@ import (
 	"github.com/ibrahimozekici/app-server2/internal/config"
 	"github.com/ibrahimozekici/app-server2/internal/logging"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
-	"github.com/brocaar/lorawan"
-	"github.com/brocaar/lorawan/applayer/multicastsetup"
-	"github.com/brocaar/lorawan/gps"
+	//"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan/applayer/multicastsetup"
+	//"github.com/brocaar/lorawan/gps"
 )
 
 var (

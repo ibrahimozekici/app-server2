@@ -8,8 +8,8 @@ import (
 	"github.com/golang/protobuf/ptypes"
 	"github.com/pkg/errors"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/common"
-	"github.com/ibrahimozekici/lora-api/go/v3/gw"
+	// "github.com/ibrahimozekici/lora-api/go/v3/common"
+	// "github.com/ibrahimozekici/lora-api/go/v3/gw"
 )
 
 // HEXBytes defines a type which represents bytes as HEX when marshaled to

@@ -22,8 +22,8 @@ import (
 	"github.com/ibrahimozekici/app-server2/internal/integration/mock"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
 	"github.com/ibrahimozekici/app-server2/internal/test"
-	"github.com/brocaar/lorawan"
-	"github.com/brocaar/lorawan/backend"
+	//"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan/backend"
 )
 
 func TestJoinServerAPI(t *testing.T) {

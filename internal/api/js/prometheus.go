@@ -12,7 +12,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus/promauto"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/brocaar/lorawan/backend"
+	//"github.com/brocaar/lorawan/backend"
 )
 
 var (

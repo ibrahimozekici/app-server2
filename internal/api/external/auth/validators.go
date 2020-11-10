@@ -5,7 +5,7 @@ import (
 
 	"github.com/gofrs/uuid"
 
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 	"github.com/jmoiron/sqlx"
 	"github.com/pkg/errors"
 )

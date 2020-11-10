@@ -3,7 +3,7 @@ package models
 import (
 	"context"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/as/integration"
+	// "github.com/ibrahimozekici/lora-api/go/v3/as/integration"
 )
 
 // Integration defines the integration interface.

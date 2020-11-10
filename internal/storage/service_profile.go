@@ -13,7 +13,7 @@ import (
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	// "github.com/ibrahimozekici/lora-api/go/v3/ns"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	"github.com/ibrahimozekici/app-server2/internal/logging"
 )

@@ -16,15 +16,15 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/as"
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/integration"
+	// "github.com/ibrahimozekici/lora-api/go/v3/as"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/integration"
 	"github.com/ibrahimozekici/app-server2/internal/api/helpers"
 	"github.com/ibrahimozekici/app-server2/internal/config"
 	"github.com/ibrahimozekici/app-server2/internal/events/uplink"
 	"github.com/ibrahimozekici/app-server2/internal/gwping"
 	"github.com/ibrahimozekici/app-server2/internal/integration"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 var (

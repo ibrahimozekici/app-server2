@@ -9,14 +9,14 @@ import (
 	"github.com/golang/protobuf/ptypes/empty"
 	"github.com/lib/pq/hstore"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	//"github.com/ibrahimozekici/lora-api/go/v3/ns"
 
 	"github.com/jmoiron/sqlx"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
 	"github.com/ibrahimozekici/app-server2/internal/api/external/auth"
 	"github.com/ibrahimozekici/app-server2/internal/api/helpers"
 	"github.com/ibrahimozekici/app-server2/internal/codec"

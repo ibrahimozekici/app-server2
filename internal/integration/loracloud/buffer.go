@@ -9,9 +9,9 @@ import (
 	"github.com/golang/protobuf/ptypes"
 	"github.com/pkg/errors"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/gw"
+	// "github.com/ibrahimozekici/lora-api/go/v3/gw"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 const (

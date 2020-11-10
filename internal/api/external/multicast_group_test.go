@@ -3,7 +3,7 @@ package external
 import (
 	"testing"
 
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 
 	uuid "github.com/gofrs/uuid"
 	"github.com/stretchr/testify/require"
@@ -11,8 +11,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
+	// "github.com/ibrahimozekici/lora-api/go/v3/ns"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver/mock"
 	"github.com/ibrahimozekici/app-server2/internal/storage"

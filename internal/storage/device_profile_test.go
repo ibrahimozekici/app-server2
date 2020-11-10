@@ -11,10 +11,10 @@ import (
 	"github.com/lib/pq/hstore"
 	"github.com/stretchr/testify/require"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	// "github.com/ibrahimozekici/lora-api/go/v3/ns"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver/mock"
-	"github.com/brocaar/lorawan/band"
+	//"github.com/brocaar/lorawan/band"
 )
 
 func TestDeviceProfileValidate(t *testing.T) {

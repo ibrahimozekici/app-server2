@@ -9,10 +9,10 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/common"
-	"github.com/ibrahimozekici/lora-api/go/v3/gw"
+	// "github.com/ibrahimozekici/lora-api/go/v3/common"
+	// "github.com/ibrahimozekici/lora-api/go/v3/gw"
 	"github.com/ibrahimozekici/app-server2/internal/integration/loracloud/client/helpers"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 type StructsTestSuite struct {

@@ -8,7 +8,7 @@ import (
 	"github.com/pkg/errors"
 
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver"
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	// "github.com/ibrahimozekici/lora-api/go/v3/ns"
 )
 
 func getNSClientForServiceProfile(ctx context.Context, db sqlx.Queryer, id uuid.UUID) (ns.NetworkServerServiceClient, error) {

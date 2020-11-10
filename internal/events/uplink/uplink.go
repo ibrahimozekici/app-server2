@@ -13,9 +13,9 @@ import (
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/as"
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/integration"
-	"github.com/ibrahimozekici/lora-api/go/v3/common"
+	// "github.com/ibrahimozekici/lora-api/go/v3/as"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/integration"
+	// "github.com/ibrahimozekici/lora-api/go/v3/common"
 	"github.com/ibrahimozekici/app-server2/internal/applayer/clocksync"
 	"github.com/ibrahimozekici/app-server2/internal/applayer/fragmentation"
 	"github.com/ibrahimozekici/app-server2/internal/applayer/multicastsetup"
@@ -24,8 +24,8 @@ import (
 	"github.com/ibrahimozekici/app-server2/internal/integration"
 	"github.com/ibrahimozekici/app-server2/internal/logging"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
-	"github.com/brocaar/lorawan"
-	"github.com/brocaar/lorawan/gps"
+	//"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan/gps"
 )
 
 type uplinkContext struct {

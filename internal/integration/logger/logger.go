@@ -7,11 +7,11 @@ import (
 	"github.com/golang/protobuf/proto"
 	log "github.com/sirupsen/logrus"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/integration"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/integration"
 	"github.com/ibrahimozekici/app-server2/internal/eventlog"
 	"github.com/ibrahimozekici/app-server2/internal/integration/models"
 	"github.com/ibrahimozekici/app-server2/internal/logging"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 // Config contains the logger configuration.

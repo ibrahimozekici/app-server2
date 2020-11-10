@@ -10,8 +10,8 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"github.com/ibrahimozekici/app-server2/internal/storage"
-	"github.com/brocaar/lorawan"
-	"github.com/brocaar/lorawan/applayer/clocksync"
+	//"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan/applayer/clocksync"
 )
 
 // HandleClockSyncCommand handles an uplink clock synchronization command.

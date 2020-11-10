@@ -22,7 +22,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
 	"github.com/ibrahimozekici/app-server2/internal/api/external/auth"
 	"github.com/ibrahimozekici/app-server2/internal/api/external/oidc"
 	"github.com/ibrahimozekici/app-server2/internal/api/helpers"

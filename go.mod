@@ -7,7 +7,7 @@ require (
 	github.com/NickBall/go-aes-key-wrap v0.0.0-20170929221519-1c3aa3e4dfc5
 	github.com/aws/aws-sdk-go v1.26.3
 	github.com/brocaar/chirpstack-api/go/v3 v3.8.1 // indirect
-	// github.com/brocaar/lorawan v0.0.0-20201030140234-f23da2d4a303
+	// github.com/ibrahimozekici/lora-api/go/v3 v3.8.1 // indirect
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
@@ -26,7 +26,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/grpc-ecosystem/grpc-gateway v1.12.1
 	github.com/ibrahimozekici/lora-api/go/v3 v3.8.1
-	github.com/jacobsa/crypto v0.0.0-20190317225127-9f44e2d11115 // indirect
+	// github.com/ibrahimozekici/lora-api/go/v3 v3.8.1
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/jteeuwen/go-bindata v3.0.8-0.20180305030458-6025e8de665b+incompatible
 	github.com/lib/pq v1.2.0
@@ -61,9 +61,3 @@ require (
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
 )
-
-// remove when https://github.com/tmc/grpc-websocket-proxy/pull/23 has been merged
-// and grpc-websocket-proxy dependency has been updated to version including this fix.
-replace github.com/tmc/grpc-websocket-proxy => github.com/brocaar/grpc-websocket-proxy v1.0.1
-
-// replace github.com/ibrahimozekici/lora-api/go/v3 => ../chirpstack-api/go

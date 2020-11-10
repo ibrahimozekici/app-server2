@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/as/integration"
+	// "github.com/ibrahimozekici/lora-api/go/v3/as/integration"
 	"github.com/ibrahimozekici/app-server2/internal/integration/models"
 	"github.com/pkg/errors"
 )

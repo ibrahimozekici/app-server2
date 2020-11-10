@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 	"github.com/gofrs/uuid"
 )
 

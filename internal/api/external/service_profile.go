@@ -10,8 +10,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 
-	pb "github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
-	"github.com/ibrahimozekici/lora-api/go/v3/ns"
+	pb //"github.com/ibrahimozekici/lora-api/go/v3/as/external/api"
+	// "github.com/ibrahimozekici/lora-api/go/v3/ns"
 	"github.com/ibrahimozekici/app-server2/internal/api/external/auth"
 	"github.com/ibrahimozekici/app-server2/internal/api/helpers"
 	"github.com/ibrahimozekici/app-server2/internal/storage"

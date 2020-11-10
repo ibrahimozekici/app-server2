@@ -7,10 +7,10 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ibrahimozekici/lora-api/go/v3/gw"
+	// "github.com/ibrahimozekici/lora-api/go/v3/gw"
 	"github.com/ibrahimozekici/app-server2/internal/integration/loracloud/client/helpers"
-	"github.com/brocaar/lorawan"
-	"github.com/brocaar/lorawan/gps"
+	//"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan/gps"
 )
 
 // TDOASingleFrameRequest implements the LoRa Cloud TDOA Single-Frame request.

@@ -13,7 +13,7 @@ import (
 	"github.com/ibrahimozekici/app-server2/internal/backend/networkserver/mock"
 	"github.com/ibrahimozekici/app-server2/internal/storage"
 	"github.com/ibrahimozekici/app-server2/internal/test"
-	"github.com/brocaar/lorawan"
+	//"github.com/brocaar/lorawan"
 )
 
 type validatorTest struct {

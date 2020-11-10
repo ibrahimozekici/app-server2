@@ -5,7 +5,7 @@ package loracloud
 
 import (
 	fmt "fmt"
-	gw "github.com/ibrahimozekici/lora-api/go/v3/gw"
+	gw //"github.com/ibrahimozekici/lora-api/go/v3/gw"
 	proto "github.com/golang/protobuf/proto"
 	math "math"
 )
